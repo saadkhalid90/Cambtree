@@ -1,0 +1,36 @@
+{
+ "name": "SDGs Planning",
+ "children": [
+   {"name": "Government (Ministry of Planning)",
+   "children" : [
+         {"name": "Good governance: the core of the rectangular strategy"},
+         {"name": "Overarching environment for implementing the strategy"},
+         {"name": "Promotion of agricultural sector"},
+         {"name": "Development of physical infrastructure"},
+         {"name": "Private sector development and employment"},
+         {"name": "Capacity building for human resources development"}
+      ]},
+   {"name": "Technical working groups",
+   "children" : [
+         {"name": "Agriculture and water"},
+         {"name": "Decentralization and deconcentration"},
+         {"name": "Education"},
+         {"name": "Fisheries"},
+         {"name": "Social protection"},
+         {"name": "Food security and nutrition"},
+         {"name": "Forestry reform"},
+         {"name": "Gender"},
+         {"name": "Health"},
+         {"name": "HIV/AIDS"},
+         {"name": "Infrastructure and regional integration"},
+         {"name": "Land"},
+         {"name": "Legal and judicial reform"},
+         {"name": "Mine action"},
+         {"name": "Planning and poverty reduction"},
+         {"name": "Private sector development"},
+         {"name": "Public administration reform"},
+         {"name": "Public financial management"},
+         {"name": "Rural water supply sanitation hygiene"}
+    ]}
+  ]
+}
